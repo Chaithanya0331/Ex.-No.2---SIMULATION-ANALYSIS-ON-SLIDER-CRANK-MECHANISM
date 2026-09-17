@@ -42,7 +42,7 @@
 ![MechAnalyzer](MechAnalyzer.png)
 ### VAD, IC and SFA module
 ![VAD, IC and SFA module](<VAD, IC and SFA module.png>)
-### Name: ** P CHAITHANYA **
+### Name: **P CHAITHANYA**
 ### Register Number: **212224230194**
 
 ## RESULT:
